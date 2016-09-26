@@ -1,2 +1,2 @@
 print "Hola Mundo"
-print "Si se pudo"
+print "Si se quedo"
